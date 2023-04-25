@@ -35,12 +35,12 @@ afternoon = {
     'P24':'https://docs.google.com/spreadsheets/d/1-E80Skcpisk1CL45d0IaWfvf-_zsasl-xWlTnQup0AM/edit?usp=sharing',
     'P25':'https://docs.google.com/spreadsheets/d/1bpgxvcJIAIkaFbSynLhL35HIoFuHtLTUhzDuFTniteM/edit?usp=sharing',
     'P26':'https://docs.google.com/spreadsheets/d/1OcD8VsPccYGsDtKlo8DNBsn7vSajv0dtUmwOboat-BU/edit?usp=sharing',
-    'P31':'https://docs.google.com/spreadsheets/d/1TuyWblMTOQsPiZW-uGlnqzgbsQnf127J3Juw4gbJoVk/edit?usp=sharing',
-    'P32':"https://docs.google.com/spreadsheets/d/1_VjSNOw0tnUMQpWeoRhjgy8Cvg3DSXjs29wCYOw4OaY/edit?usp=sharing",
-    'P33':"https://docs.google.com/spreadsheets/d/16w83gGdvf8o87X-mOx_ERG8YF18wKvpVCk6typAxdIA/edit?usp=sharing",
-    'P34':"https://docs.google.com/spreadsheets/d/1XNRCwdeflsw64zlJA4DJjS_Gpxh4dOzhzaxCXOT7P0c/edit?usp=sharing",
-    'P35':"https://docs.google.com/spreadsheets/d/1gYig7rbAILEkTF9wK38eOO8bEHAPhNLj2IBmWDgE0YU/edit?usp=sharing",
-    'P36':"https://docs.google.com/spreadsheets/d/1BDkFuVMknWhyM2j7En1xIg9rztnLKmbcHgCcPbNvzzs/edit?usp=sharing"
+    'P31':'https://docs.google.com/spreadsheets/d/1PN9ZBMz0CVLRADyvVLPgKeQB1pDe2aELxK2GT9YORDI/edit?usp=sharing',
+    'P32':"https://docs.google.com/spreadsheets/d/1YfZtQtd3-_yUNPKrxVr8HvJb3rAImITD_X4NjMGmrRE/edit?usp=sharing",
+    'P33':"https://docs.google.com/spreadsheets/d/11LAZY7RCgxc60gE1tNHVvtfRbVbtIkpoAaDtsuUzawE/edit?usp=sharing",
+    'P34':"https://docs.google.com/spreadsheets/d/1flBH_Txb5bSymYXbrgxH23gfM8vwVYQ2IisYvm8aaV4/edit?usp=sharing",
+    'P35':"https://docs.google.com/spreadsheets/d/1YvesvtXvZRxFI0MSb0HCSksM31jX3QE6S90bYkTbYHs/edit?usp=sharing",
+    'P36':"https://docs.google.com/spreadsheets/d/1bMkC8oCi8oTdSoQG1loPL3p22nEZB6SPDqG1v15MKJE/edit?usp=sharing"
 }
 
 def show():
